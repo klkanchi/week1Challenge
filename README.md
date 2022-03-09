@@ -12,9 +12,12 @@ Using `Kickstarter` dataset want to visualize campaign outcomes based on launch 
 ### Analysis of Outcomes Based on Launch Date
 
 Louise is interested in starting a campaign for theater, a subcategory column is created to subset the parent category. Pivot table and pivot charts are used to analyze the data and create the visualization. Parent category is filtered on theater.A line chart `Theater_Outcomes_vs_Launch.png` created.
+![Theater_Outcomes_vs_Launch.png](https://github.com/klkanchi/week1Challenge/blob/main/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
+
+![Outcomes_vs_Goals.png](https://github.com/klkanchi/week1Challenge/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
