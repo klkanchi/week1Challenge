@@ -17,7 +17,7 @@ Louise is interested in starting a campaign for theater, a subcategory column is
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes_vs_Goals.png](https://github.com/klkanchi/week1Challenge/blob/main/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goal.png](
 
 ### Challenges and Difficulties Encountered
 
