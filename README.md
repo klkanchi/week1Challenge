@@ -21,6 +21,8 @@ Louise is interested in starting a campaign for theater, a subcategory column is
 
 ### Challenges and Difficulties Encountered
 
+Had some difficulty understanding the dataset and the various attributes. Little bit morr introduction to the dataset would be more helpful to solve the assignment.
+
 ## Results:
 
 - What are the two conclusions you can draw about the Outcomes Based on Launch Date?
